@@ -1,9 +1,8 @@
 # Excel- Vrinda Store Data analysis
 **Objective :**
-
 Vrinda store wants to create an annual sales report for 2022. So that, Vrinda can understand their customers and grow more sales in 2023.
 
-Here’s how I approached each step of the project in Excel
+**Here’s how I approached each step of the project in Excel**
 
 **1. Data Cleaning**
 I started by cleaning the raw data to ensure it was accurate and consistent.
